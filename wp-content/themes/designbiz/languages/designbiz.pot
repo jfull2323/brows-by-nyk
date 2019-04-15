@@ -1,0 +1,974 @@
+# <!=Copyright (C) 2017 Theme Junkie
+# This file is distributed under the GNU General Public License v2.0 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Designbiz 1.0.2\n"
+"Report-Msgid-Bugs-To: https://www.theme-junkie.com/support/\n"
+"POT-Creation-Date: 2017-05-22 05:35:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Theme Junkie (support@theme-junkie.com)\n"
+"Language-Team: Theme Junkie (support@theme-junkie.com)\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: "
+"__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_"
+"x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:17
+msgid "Go to Previous Page"
+msgstr ""
+
+#: 404.php:18
+msgid "Go to Home Page"
+msgstr ""
+
+#: archive-jetpack-portfolio.php:12 inc/customizer.php:183
+#: inc/customizer.php:189
+msgid "Portfolio"
+msgstr ""
+
+#: comments.php:26 comments.php:38
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:27 comments.php:39
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:28 comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:57
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:73
+msgid "Primary Location"
+msgstr ""
+
+#: functions.php:74
+msgid "Footer Location"
+msgstr ""
+
+#: functions.php:171
+msgid "Primary"
+msgstr ""
+
+#: functions.php:173
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr ""
+
+#: functions.php:185
+msgid "Use this widget area to display widgets on your Front Page"
+msgstr ""
+
+#: functions.php:195
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:197
+msgid "The footer sidebar 1st column."
+msgstr ""
+
+#: functions.php:207
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:209
+msgid "The footer sidebar 2nd column."
+msgstr ""
+
+#: functions.php:219
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:221
+msgid "The footer sidebar 3rd column."
+msgstr ""
+
+#: image.php:25
+msgid "on %s"
+msgstr ""
+
+#: image.php:28
+msgid "by %s"
+msgstr ""
+
+#: image.php:42 page-templates/front-page.php:19
+#: page-templates/grid-page.php:25 partials/content-page.php:16
+#: partials/content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Designbiz Options"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Custom RSS"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid ""
+"If you use 3rd party RSS service, place the URL here to change the default "
+"WordPress RSS URL."
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Applied to post or page that has sidebar."
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Thumbnail Aspect Ratio"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Applied to front-page, grid page template and portfolio section."
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Landscape (4:3)"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Square (1:1)"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Page: Featured image style"
+msgstr ""
+
+#: inc/customizer.php:87 inc/customizer.php:115
+msgid "Modern cover"
+msgstr ""
+
+#: inc/customizer.php:88 inc/customizer.php:116
+msgid "Standard"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Pages: Enable comment on Pages"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Posts: Featured image style"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Posts: Show post tags"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Posts: Show author box"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Posts: Show next & prev post"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Posts: Enable comment on Posts"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Footer credits"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Portfolio Archive Title"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Portfolio Archive Content"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Documentation"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/tgmpa.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/tgmpa.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/tgmpa.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:386 inc/extensions/tgmpa.php:827
+#: inc/extensions/tgmpa.php:2533 inc/extensions/tgmpa.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:387 inc/extensions/tgmpa.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:388 inc/extensions/tgmpa.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:934 inc/extensions/tgmpa.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/tgmpa.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/tgmpa.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/tgmpa.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3509 inc/extensions/tgmpa.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3509 inc/extensions/tgmpa.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/extensions/tgmpa.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extras.php:125
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/extras.php:126
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/extras.php:127
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/extras.php:128
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/extras.php:129
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/extras.php:130
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/template-tags.php:219
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:234
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:261
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:261
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:285
+msgid "&middot; %1$sEdit%2$s"
+msgstr ""
+
+#: inc/template-tags.php:285
+msgid "Edit Comment"
+msgstr ""
+
+#: inc/template-tags.php:291
+#. translators: 1: date, 2: time
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:299
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:303
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: inc/template-tags.php:330
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/widget-call-action.php:18
+msgid "Display call to action text and buttons."
+msgstr ""
+
+#: inc/widgets/widget-call-action.php:25
+msgid "Designbiz - Call to Action"
+msgstr ""
+
+#: inc/widgets/widget-call-action.php:104
+msgid "What are you wating"
+msgstr ""
+
+#: inc/widgets/widget-call-action.php:110 inc/widgets/widget-popular.php:143
+#: inc/widgets/widget-portfolio.php:136 inc/widgets/widget-random.php:143
+#: inc/widgets/widget-recent.php:142 inc/widgets/widget-social.php:160
+#: inc/widgets/widget-testimonial.php:136 inc/widgets/widget-video.php:111
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-call-action.php:117 inc/widgets/widget-portfolio.php:143
+#: inc/widgets/widget-testimonial.php:143
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/widget-fp-grid.php:18
+msgid ""
+"Use this widget only in Front Page Top sidebar. Display page with its child "
+"pages."
+msgstr ""
+
+#: inc/widgets/widget-fp-grid.php:25
+msgid "Designbiz - Featured Pages"
+msgstr ""
+
+#: inc/widgets/widget-fp-grid.php:141
+msgid "Parent Page: "
+msgstr ""
+
+#: inc/widgets/widget-fp-grid.php:146
+msgid "Select a parent page"
+msgstr ""
+
+#: inc/widgets/widget-fp-grid.php:156
+msgid "Number of child pages to show: "
+msgstr ""
+
+#: inc/widgets/widget-fp-grid.php:164
+msgid "Show the parent page title & content?"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:18
+msgid "Display your site's most popular Posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-popular.php:25
+msgid "Designbiz - Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:136
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:150 inc/widgets/widget-random.php:150
+#: inc/widgets/widget-recent.php:149
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:158 inc/widgets/widget-random.php:158
+msgid "Display post meta?"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:18
+msgid "Display your jetpack portfolio."
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:25
+msgid "Designbiz - Portfolio"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:129
+msgid "Our Work"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:150 inc/widgets/widget-testimonial.php:150
+msgid "Number of item to show: "
+msgstr ""
+
+#: inc/widgets/widget-random.php:18
+msgid "Display random Posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-random.php:25
+msgid "Designbiz - Random Posts"
+msgstr ""
+
+#: inc/widgets/widget-random.php:49 inc/widgets/widget-random.php:136
+msgid "Random Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:18
+msgid "Display your site's most recent Posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-recent.php:25
+msgid "Designbiz - Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:135
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:157
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/widget-social.php:18
+msgid "Display your social media icons."
+msgstr ""
+
+#: inc/widgets/widget-social.php:25
+msgid "Designbiz - Social"
+msgstr ""
+
+#: inc/widgets/widget-social.php:167
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widget-social.php:174
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widget-social.php:181
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widget-social.php:188
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widget-social.php:195
+msgid "Youtube"
+msgstr ""
+
+#: inc/widgets/widget-social.php:202
+msgid "Google+"
+msgstr ""
+
+#: inc/widgets/widget-social.php:209
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/widget-social.php:216
+msgid "Github"
+msgstr ""
+
+#: inc/widgets/widget-social.php:223
+msgid "Dribbble"
+msgstr ""
+
+#: inc/widgets/widget-social.php:230
+msgid "Codepen"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:18
+msgid "Display your jetpack testimonials."
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:25
+msgid "Designbiz - Testimonial"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:129 partials/content-hero.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-video.php:18
+msgid "Display any type of video from any video provider."
+msgstr ""
+
+#: inc/widgets/widget-video.php:25
+msgid "Designbiz - Video"
+msgstr ""
+
+#: inc/widgets/widget-video.php:118
+msgid "Video URL"
+msgstr ""
+
+#: inc/widgets/widget-video.php:125
+msgid "Embed Code"
+msgstr ""
+
+#: menu.php:10
+msgid "Menu"
+msgstr ""
+
+#: page-templates/grid-page.php:31 partials/content-page.php:31
+msgid "Edit"
+msgstr ""
+
+#: partials/content-grid.php:13
+msgid "Read More"
+msgstr ""
+
+#: partials/content-hero.php:31 partials/content-single.php:12
+#: partials/content.php:8
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: partials/content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: partials/content-none.php:10
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: partials/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: partials/content.php:24
+msgid "Continue Reading"
+msgstr ""
+
+#: search.php:11
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Designbiz"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.theme-junkie.com/themes/designbiz/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Designbiz is a modern, professional business and corporate theme "
+"spesifically designed for design and development agencies or freelancer and "
+"it’s responsive, adapting to any screen and providing your visitors with a "
+"great browsing experience on any device."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Junkie"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.theme-junkie.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Narrow Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Grid Page"
+msgstr ""
+
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:248
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:256
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:1121 inc/extensions/tgmpa.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/extensions/tgmpa.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extensions/tgmpa.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Type keyword &hellip;"
+msgstr ""
+
+#: searchform.php:2
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: sidebar-front-page.php:8
+msgctxt "Sidebar aria label"
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: sidebar.php:8
+msgctxt "Sidebar aria label"
+msgid "Primary Sidebar"
+msgstr ""
